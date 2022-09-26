@@ -5,6 +5,7 @@ Esta es una aplicacion del curso de Fernando Herrera, para esta aplicacion utili
 Espero que les guste la app!
 
 
-![HeroesApp](https://user-images.githubusercontent.com/83377576/192336480-634ccaa6-77f1-4faf-8e7b-7205bba7cce8.png)
 
 
+
+![HeroesApp](https://user-images.githubusercontent.com/83377576/192336806-4d883ad9-6318-410c-a738-5b3cf9e7ddd5.png)
